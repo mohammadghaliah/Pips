@@ -9,4 +9,5 @@ export class AppComponent {
   toDate: Date = new Date();
   title: string = 'Angular pipes Example';
   num: number = 9542.14554;
+  Fahrenheit: any;
 }
